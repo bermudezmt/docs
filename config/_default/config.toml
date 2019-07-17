@@ -1,4 +1,3 @@
-baseURL = "https://www.pulumi.com/"
 languageCode = "en-us"
 title = "Pulumi"
 
@@ -26,5 +25,6 @@ enableRobotsTXT = true
     fractions = false
 
 [params]
+    canonicalURL = "https://www.pulumi.com"
     repositoryURL = "https://github.com/pulumi/docs"
     repositoryBranch = "master"
